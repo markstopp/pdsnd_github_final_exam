@@ -26,7 +26,6 @@ def get_filters():
 
 
     print('-'*40)
-    print(city, month, day)
     return city, month, day
 
 
@@ -63,6 +62,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print('-'*80)
 
 
 def station_stats(df):
