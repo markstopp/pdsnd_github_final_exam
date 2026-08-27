@@ -15,7 +15,7 @@ pdsnd_github_final_exam
 
 ### Files used
 * .gitignore
-* bikeshare_starter.py
+* bikeshare.py
 * new_york_city.csv (not included online)
 * README.md
 
