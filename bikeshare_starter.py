@@ -62,7 +62,6 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    print('-'*80)
 
 
 def station_stats(df):
@@ -117,6 +116,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    print('-'*80)
 
 
 def main():
